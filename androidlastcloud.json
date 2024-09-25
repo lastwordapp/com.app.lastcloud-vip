@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211654889040",
+    "project_id": "lastcloud-vip",
+    "storage_bucket": "lastcloud-vip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211654889040:android:6678b7b278ed6b0490cb55",
+        "android_client_info": {
+          "package_name": "com.last-cloud.com.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzJjUx2a2H52gCQFKqCyPg9rv0mRWksXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

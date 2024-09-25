@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "1096103178317",
+    "project_id": "lastwordllcapps",
+    "storage_bucket": "lastwordllcapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096103178317:android:993e112ac735564103ac04",
+        "android_client_info": {
+          "package_name": "Com.lastwordllc.lastword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103504827910056085907",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFt4m3rZcxy4WckK-TSLuppDyqS4m7QXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103504827910056085907",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096103178317:android:b1276c00b03256ee03ac04",
+        "android_client_info": {
+          "package_name": "LastWord.LLC.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103504827910056085907",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFt4m3rZcxy4WckK-TSLuppDyqS4m7QXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103504827910056085907",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096103178317:android:b7fb13c3ad726b6403ac04",
+        "android_client_info": {
+          "package_name": "com.app.marneth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103504827910056085907",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFt4m3rZcxy4WckK-TSLuppDyqS4m7QXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103504827910056085907",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3370918843220954~5862108601"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096103178317:android:8a7502876f6ca1e903ac04",
+        "android_client_info": {
+          "package_name": "lastwordapp.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103504827910056085907",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFt4m3rZcxy4WckK-TSLuppDyqS4m7QXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103504827910056085907",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
